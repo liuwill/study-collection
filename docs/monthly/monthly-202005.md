@@ -13,6 +13,8 @@
 | 系统架构设计师教程 | [豆瓣](https://book.douban.com/subject/3800720/) |
 | 架构之美 | [豆瓣](https://book.douban.com/subject/5311566/) |
 | 聊聊架构 | [豆瓣](https://book.douban.com/subject/27034443/) |
+| 架构实战 | [豆瓣](https://book.douban.com/subject/4818685/) |
+| 软件架构师的12项修炼 | [豆瓣](https://book.douban.com/subject/10746257/) |
 
 ## 产品和需求分析
 
@@ -25,3 +27,15 @@
 | 用户故事实战 | [豆瓣](https://book.douban.com/subject/30455386/) |
 | 信息架构 | [豆瓣](https://book.douban.com/subject/26809374/) |
 | 软件需求与可视化模型 | [豆瓣](https://book.douban.com/subject/27112586/) |
+
+## 编程技能
+
+### Golang开发规范
+
+- [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
+- [Style guideline for Go packages](https://rakyll.org/style-packages/)
+- [Uber Go 语言编码规范中文版](https://github.com/xxjwxc/uber_go_guide_cn)
+
+
+
+
