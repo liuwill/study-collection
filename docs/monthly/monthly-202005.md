@@ -15,6 +15,9 @@
 | 聊聊架构 | [豆瓣](https://book.douban.com/subject/27034443/) |
 | 架构实战 | [豆瓣](https://book.douban.com/subject/4818685/) |
 | 软件架构师的12项修炼 | [豆瓣](https://book.douban.com/subject/10746257/) |
+| 软件构架实践 | [豆瓣](https://book.douban.com/subject/1151459/) |
+| 企业应用架构模式 | [豆瓣](https://book.douban.com/subject/4826290/) |
+| 面向对象分析与设计 | [豆瓣](https://book.douban.com/subject/3892590/) |
 
 ## 产品和需求分析
 
