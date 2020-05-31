@@ -2,7 +2,7 @@
 
 ## 系统架构设计相关知识
 
-### 系统架构相关数据
+### 系统架构相关书籍
 
 | 书名 | 链接 |
 | :-------- | :-------- |
@@ -31,14 +31,38 @@
 | 信息架构 | [豆瓣](https://book.douban.com/subject/26809374/) |
 | 软件需求与可视化模型 | [豆瓣](https://book.douban.com/subject/27112586/) |
 
+## 编程思想和模式
+
+### 编程思想相关书籍
+
+| 书名 | 链接 |
+| :-------- | :-------- |
+| A Philosophy of Software Design | [豆瓣](https://book.douban.com/subject/30218046/) |
+| 代码整洁之道 | [豆瓣](https://book.douban.com/subject/4199741/) |
+
+### 软件工程原则
+
+* [What Are The Best Software Engineering Principles?](https://luminousmen.com/post/what-are-the-best-engineering-principles)
+* [How my software development has changed in the last 10 years](https://dev.tasubo.com/2020/02/how-my-software-development-has-changed-in-the-last-10-year-part-2.html)
+
+
 ## 编程技能
 
 ### Golang开发规范
 
-- [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
-- [Style guideline for Go packages](https://rakyll.org/style-packages/)
-- [Uber Go 语言编码规范中文版](https://github.com/xxjwxc/uber_go_guide_cn)
+* [Standard Go Project Layout](https://github.com/golang-standards/project-layout)
+* [Style guideline for Go packages](https://rakyll.org/style-packages/)
+* [Uber Go 语言编码规范中文版](https://github.com/xxjwxc/uber_go_guide_cn)
+* [CodeReviewComments · golang/go Wiki · GitHub](https://github.com/golang/go/wiki/CodeReviewComments)
 
+## 工具和方法
 
+### Metabase
 
+Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
+
+根据官方文档，Metabase是面向技术人员和非技术人员都可以使用一款数据分析工具，可以连接多种数据源的数据，通过可视化的方式，不需要掌握SQL语言，就能够使用Metabase生成各种数据报表。
+
+* [Metabase](https://www.metabase.com/docs/latest/)
+* [metabase: The simplest, fastest way to get business intelligence and analytics  to everyone in your company](https://github.com/metabase/metabase)
 
