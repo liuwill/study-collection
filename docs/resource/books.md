@@ -40,7 +40,6 @@
 | 书名 | 链接 |
 | :-------- | :-------- |
 |  [走出硝烟的精益敏捷：我们如何实施Scrum和Kanban](https://book.douban.com/subject/34898497/) |  [豆瓣](https://book.douban.com/subject/34898497/)|
-| 代码整洁之道 | [豆瓣](https://book.douban.com/subject/4199741/) |
 |  [凤凰项目：一个IT运维的传奇故事（修订版）](https://book.douban.com/subject/34820436/) |  [豆瓣](https://book.douban.com/subject/34820436/)  |
 
 
