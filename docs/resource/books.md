@@ -33,3 +33,20 @@
 | :-------- | :-------- |
 | A Philosophy of Software Design | [豆瓣](https://book.douban.com/subject/30218046/) |
 | 代码整洁之道 | [豆瓣](https://book.douban.com/subject/4199741/) |
+
+
+## 精益敏捷
+
+| 书名 | 链接 |
+| :-------- | :-------- |
+|  [走出硝烟的精益敏捷：我们如何实施Scrum和Kanban](https://book.douban.com/subject/34898497/) |  [豆瓣](https://book.douban.com/subject/34898497/)|
+| 代码整洁之道 | [豆瓣](https://book.douban.com/subject/4199741/) |
+|  [凤凰项目：一个IT运维的传奇故事（修订版）](https://book.douban.com/subject/34820436/) |  [豆瓣](https://book.douban.com/subject/34820436/)  |
+
+
+## 运维和持续集成
+
+
+| 书名 | 链接 |
+| :-------- | :-------- |
+| [DevOps实践指南](https://book.douban.com/subject/30186150/) | [豆瓣](https://book.douban.com/subject/30186150/) |
